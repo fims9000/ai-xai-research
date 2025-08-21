@@ -30,14 +30,13 @@ Working at the frontier of **Artificial Intelligence**:
 
 ---
 
-## 📂 GitHub Projects (Folders)  
+## 📂 GitHub Projects  
 
-- `src/` – core libraries for XAI, neuro-symbolic, DSS  
-- `examples/` – minimal runnable scripts/demos  
-- `notebooks/` – research notebooks (experiments, EDA)  
-- `datasets/` – small sample datasets (or links)  
-- `docs/` – documentation (MkDocs)  
-- `tests/` – unit tests (pytest)  
+- **XAI Frameworks** – interpretable ML and custom explainers  
+- **Hybrid Neuro-Fuzzy Systems** – DSS prototypes  
+- **Medical DSS** – AI models for preventive healthcare  
+- **GeoAI for Sustainability** – GIS + ML for ecological risk  
+- **Knowledge Graph + ML Pipelines** – hybrid reasoning + ML  
 
 ---
 
@@ -46,10 +45,11 @@ Working at the frontier of **Artificial Intelligence**:
 - Next-gen **interpretable AI frameworks**  
 - **Neuro-symbolic architectures** for trustable AI  
 - AI for **sustainability & medicine**  
-- Systemic foundations of XAI  
+- Systemic & theoretical foundations of XAI  
 
 ---
 
 ## 📫 Contacts  
 
-- ORCID: [0009-0005-6943-7432](https://orcid.org/0009-0005-6943-7432)
+- ORCID: [0009-0005-6943-7432](https://orcid.org/0009-0005-6943-7432)  
+
