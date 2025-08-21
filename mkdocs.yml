@@ -1,0 +1,10 @@
+site_name: Yuri Trofimov — AI Research
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Guides:
+    - XAI: guides/xai.md
+    - Neuro-Symbolic: guides/neuro_symbolic.md
+    - GeoAI: guides/geoai.md
+  - API: api.md

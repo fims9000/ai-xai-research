@@ -1,0 +1,47 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-xai-toolkit"
+version = "0.0.1"
+description = "Research toolkit for XAI, neuro-symbolic systems, and DSS"
+authors = [{name="Yuri Trofimov"}]
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+  "numpy",
+  "pandas",
+  "scikit-learn",
+  "torch",
+  "torchvision",
+  "torchaudio",
+  "tensorflow",
+  "keras",
+  "shap",
+  "lime",
+  "captum",
+  "alibi",
+  "interpret",
+  "matplotlib",
+  "seaborn",
+  "networkx",
+  "neo4j",
+  "geopandas",
+  "rasterio",
+  "shapely",
+  "pyyaml",
+  "mlflow",
+  "dvc",
+]
+
+[tool.black]
+line-length = 100
+
+[tool.isort]
+profile = "black"
+
+[tool.pytest.ini_options]
+minversion = "7.0"
+addopts = "-q"
+testpaths = ["tests"]

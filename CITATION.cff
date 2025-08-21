@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "AI Research Toolkit (XAI, Neuro-Symbolic, DSS)"
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Trofimov"
+    given-names: "Yuri"
+    orcid: "https://orcid.org/0009-0005-6943-7432"
+version: "0.0.1"
+date-released: "2025-08-21"
